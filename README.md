@@ -5,6 +5,7 @@ This script is completly tested and provides most recent news from trusted sourc
 More sources will come soon and api options.
 
 Our website : https://cryptoapi.news/
+
 Documentation: https://cryptoapi.news/documentation.html
 
 ### Sources
