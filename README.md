@@ -12,8 +12,8 @@ Documentation: https://cryptoapi.news/documentation.html
 
  - Coindesk
  - Cointelegraph
+ - CCN
  - Bitcoin.news (in development)
- - CCN (in development)
  
 ### Supported coins
 
@@ -38,7 +38,7 @@ https://cryptoapi.news
  
  ### Upcomming features
  
- - Bitcoin.com news, ccn sources.
+ - Bitcoin.com news
  
  ### No resell rights
  
